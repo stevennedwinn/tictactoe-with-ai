@@ -1,0 +1,9 @@
+# pyproject.toml
+
+[build-system]
+requires_=_["setuptools>=64.0.0",_"wheel"]
+build-backend_=_"setuptools.build_meta"
+
+[project]
+name_=_"tic-tac-toe"
+version_=_"1.0.0"
